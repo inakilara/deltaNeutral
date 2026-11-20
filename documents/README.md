@@ -15,6 +15,7 @@ history with one reusable engine and one cost model.
 | [results_B.md](results_B.md) | phase 3: option parity (B1–B5) |
 | [results_C.md](results_C.md) | phase 4: option risk premia (C1–C3) |
 | [results_summary.md](results_summary.md) | **phase 5: comparison, portfolios, recommendation (start here for results)** |
+| [research_summary.md](research_summary.md) | one-page narrative: seed questions, method, what failed, what works, what to try next |
 
 **Status (2026-11-20):** all phases run.
 
